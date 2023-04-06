@@ -25,12 +25,11 @@ APIs are extremely beneficial to the development of applications and services, a
 
 #### Suppose we have an API where we want to log in and order some goods, the API deployed on many servers can serve many requests, even from the same account without storing the authentication details or provided token state. Every time client is making a request it will send the authentication details as well as the other required information and that request can be processed easily at the server side as it includes all the information needed to fulfill the request.
 
-## Caching is the ability to store copies of frequently accessed data in several places along the request-response path.
+#### Caching is the ability to store copies of frequently accessed data in several places along the request-response path.
 
 ## What is **HTTP**?
 
 ### Hypertext Transport (or Transfer) Protocol, the data transfer protocol used on the World Wide Web. 
-
 
 ## So, how does it work? 
 
