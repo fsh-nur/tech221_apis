@@ -9,8 +9,8 @@ It is a set of rules that enable different applications to communicate with each
 APIs are extremely beneficial to the development of applications and services, as well as the integration and management of existing ones.
 
 ## Types of APIs
+![Untitled design (3)](https://user-images.githubusercontent.com/129324316/230438265-a98534d4-a018-43ce-9f1c-9d8b7aa39d4b.png)
 
-![Untitled design (2)](https://user-images.githubusercontent.com/129324316/230438016-cdebcc3c-4c47-44b3-9643-303b71384c71.png)
 
 
 ## Certain protocols have been developed to provide users with a set of API **specifications**, that create accepted data types, commands and syntax. The protocols facilitate standardized information exchange.
