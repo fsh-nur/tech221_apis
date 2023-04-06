@@ -10,10 +10,12 @@ APIs are extremely beneficial to the development of applications and services, a
 
 ## Types of APIs
 
+![Untitled design (2)](https://user-images.githubusercontent.com/129324316/230438016-cdebcc3c-4c47-44b3-9643-303b71384c71.png)
+
+
 ## Certain protocols have been developed to provide users with a set of API **specifications**, that create accepted data types, commands and syntax. The protocols facilitate standardized information exchange.
 ### SOAP (Simple Object Access Protocol): Built with XML, SOAP enables and the sending and receiving of data through SMTP and HTTP. SOAP APIs make it make it easier to share information between apps or software components that are running in multiple environments and different languages.
 
-![Untitled design](https://user-images.githubusercontent.com/129324316/230437511-9ceaedee-60aa-4d50-9aea-13e048e49fd5.png)
 
 
 ### REST(Representational State Transfer): REST is a way for two computer/programs to communicate with each other. They can receive, delete, edit or send information to the server. 
